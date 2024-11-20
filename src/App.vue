@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 import { reactive } from 'vue'
-import { MoonIcon, SunIcon, LinkIcon } from '@heroicons/vue/24/solid'
+import { MoonIcon, SunIcon } from '@heroicons/vue/24/solid'
 import { useThemeStore } from '@/stores/ThemeStore'
 
 const useStore = useThemeStore()
