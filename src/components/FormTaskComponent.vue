@@ -68,5 +68,3 @@ function saveTask() {
     </form>
   </div>
 </template>
-
-<style scoped></style>
